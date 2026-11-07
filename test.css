@@ -10,6 +10,10 @@ div{
 .title1 {
    margin: 25px;
   }
+.title2 {
+   margin: 25px;
+   color: aqua;
+  }
 
 #id{
 color: white;
